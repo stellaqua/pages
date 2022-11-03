@@ -1,0 +1,100 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+}
+.addclips {
+	text-align: right;
+}
+#header {
+	margin: 0 auto;
+	width: 95%;
+	border-bottom: 1px solid #ccccff;
+}
+#header h1 {
+	margin: 10px;
+	font-family: 'ＭＳ Ｐ明朝', 細明朝体, 'serif';
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 3px 3px 5px #5555ff;
+}
+#header .subtitle {
+	display: block;
+	font-size: 20px;
+}
+#header #sitesummary {
+	margin: 15px auto;
+	width: 50%;
+	font-size: 80%;
+	text-align: center;
+}
+
+#content {
+	margin: 10px;
+}
+#content .services {
+	width: 50%;
+	margin: 10px auto;
+}
+#content .services .service {
+	border-bottom: 1px solid #ccccff;
+	padding: 10px;
+}
+#content .services .service .title {
+	font-size: 110%;
+}
+#content .services .service .description {
+	text-align: left;
+}
+#content .message {
+	width: 50%;
+	margin: 10px auto;
+	text-align: left;
+}
+
+#ads {
+	clear: both;
+}
+#ads .google {
+	background: #eeeeee;
+	width: 728px;
+	height: 90px;
+	margin: auto;
+}
+#ads .amazon {
+	background: #eeeeee;
+	width: 728px;
+	height: 90px;
+	margin: auto;
+}
+
+#footer {
+	clear: both;
+	background: #ccccff;
+}
+#footer .author {
+	margin: 0;
+	padding: 10px 20px;
+}
+#footer .author .copyright {
+	margin: 0;
+	padding: 5px;
+	display: inline;
+	font-size: 80%;
+	font-style: italic;
+}
+#footer .author .blog {
+	margin: 0;
+	padding: 5px;
+	display: inline;
+	font-size: 80%;
+}
+
+.attention {
+	font-size: 120%;
+	font-style: italic;
+	color: #ff9955;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
